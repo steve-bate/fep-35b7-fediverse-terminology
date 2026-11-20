@@ -4,7 +4,6 @@ authors: Steve Bate <svc-fep@stevebate.net>
 type: informational
 status: DRAFT
 discussionsTo: https://github.com/steve-bate/fep-35b7-fediverse-terminology/issues
-dateReceived: 2026-04-22
 ---
 # FEP-35b7: Fediverse Servers, Instances, and Tenants
 
