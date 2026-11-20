@@ -3,9 +3,8 @@ slug: 35b7
 authors: Steve Bate <svc-fep@stevebate.net>
 type: informational
 status: DRAFT
-discussionsTo: https://codeberg.org/steve-bate/fep/issues
+discussionsTo: https://github.com/steve-bate/fep-35b7-fediverse-terminology/issues
 dateReceived: 2026-04-22
-trackingIssue: https://codeberg.org/fediverse/fep/issues/832
 ---
 # FEP-35b7: Fediverse Servers, Instances, and Tenants
 
@@ -94,7 +93,7 @@ Related concepts:
 
 - One server implementation can be deployed as many server instances.
 - Each server instance runs exactly one version of a server implementation at a given point in time.
-- A server instance may serve one tenant (single-tenant) or multiple tenants (multi-tenant). Current server implementations are predominately server a single tenant. Known multitenant-capable server implementations include [Takahē][TAKAHE], [Vocata][VOCATA], and [FIRM], and [Oni][ONI] (single user tenants).
+- A server instance may serve one tenant (single-tenant) or multiple tenants (multi-tenant). Current server implementations predominantly serve a single tenant. Known multitenant-capable server implementations include [Takahē][TAKAHE], [Vocata][VOCATA], [FIRM], and [Oni][ONI] (single-user tenants).
 
 ```text
 +-----------------------+
