@@ -1,6 +1,6 @@
 # FEP-35b7: Fediverse Servers, Instances, and Tenants
 
-**Status:** DRAFT · **Type:** informational · **Author:** Steve Bate · **Received:** 2026-04-22
+**Status:** DRAFT · **Type:** informational · **Author:** Steve Bate
 
 ## Overview
 
